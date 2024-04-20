@@ -1,2 +1,1 @@
-# run in terminal
-type: npm install twilio
+* BELAJAR BASIC SHELL
