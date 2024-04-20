@@ -2,8 +2,8 @@
 
 console.log("Selamat Datang Dibio Data Saya")
 
-console.log("Nama: Kevin Pandu Samudera")
-console.log("Kelas: 9.1")
-console.log("Usia: 15 tahun")
-console.log("Hobby: Coding")
-console.log("Alamat: Batam, Kep. Riau")
+console.log("[1] Nama: Kevin Pandu Samudera")
+console.log("[2] Kelas: 9.1")
+console.log("[3] Usia: 15 tahun")
+console.log("[4] Hobby: Coding")
+console.log("[5] Alamat: Batam, Kep. Riau")
